@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Frizzozo",
+    "username": "Bejamin Netanyussy",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 240000,
       "messages": [
-        "Test1",
-        "Test2",
-        "Test3 "
+        "I love israel",
+        "let's build more oil pumps",
+        "I don't belive in human rights"
       ]
     },
     "chat-log": true,
